@@ -39,4 +39,4 @@ Icons: Lucide React & Radix UI Icons
 Type Safety: TypeScript for a strongly-typed, scalable codebase
 
 
-![Home Page](Home.png)
+![Home Page](HomePage.png)
