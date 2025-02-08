@@ -38,5 +38,27 @@ AI Integration: LangChain and Claude 3.5 Sonnet for advanced AI capabilities
 Icons: Lucide React & Radix UI Icons
 Type Safety: TypeScript for a strongly-typed, scalable codebase
 
+Below are the screenshots from the app.
+
 
 ![Home Page](HomePage.png)
+
+
+
+![SignUp Page](SignUp.png)
+
+
+
+![Chat Page](Chat.png)
+
+
+
+
+
+![Chat2 Page](Chat2.png)
+
+
+
+
+
+![Chat3 Page](Chat3.png)
